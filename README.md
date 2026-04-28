@@ -1,2 +1,2 @@
-# GeradorEstimativaProjetoIA
-Gera estimativas de Projeto
+# GeradorEstimativaIA
+gerador de estimativa com IA
