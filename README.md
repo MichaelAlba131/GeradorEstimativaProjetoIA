@@ -6,7 +6,7 @@ O Estimador Técnico IA é uma ferramenta poderosa desenvolvida em Python e Stre
 ## ✨ Funcionalidades Principais
 
 *   **📄 Extração Inteligente de Escopo:** Suporte para leitura de arquivos PDF, DOCX e TXT.
-*   **🤖 Análise via IAw:** Utiliza modelos avançados para decompor o escopo em atividades técnicas detalhadas.
+*   **🤖 Análise via IA:** Utiliza modelos avançados para decompor o escopo em atividades técnicas detalhadas.
 *   **⚙️ Configuração Dinâmica (YAML):** Permite configurar equipe, senioridade, custos por hora, margens de risco e tabelas de esforço base sem alterar o código.
 *   **🛡️ Blindagem de Cálculos:** Realiza o re-cálculo matemático via Python após a sugestão da IA para garantir precisão financeira.
 *   **📅 Cronograma Automático:** Sugestão de foco semanal e distribuição de responsabilidades.
