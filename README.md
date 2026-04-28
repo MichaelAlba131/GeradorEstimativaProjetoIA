@@ -1,4 +1,5 @@
 # 🚀 Estimador Técnico IA 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://geradorestimativaia.streamlit.app/)
 
 O Estimador Técnico IA é uma ferramenta poderosa desenvolvida em Python e Streamlit, projetada para automatizar e profissionalizar o processo de criação de propostas técnicas e estimativas de esforço para projetos de software. Utilizando o poder da Inteligência Artificial (via OpenRouter/GPT-4o), o sistema analisa documentos de escopo e gera um detalhamento completo de horas, custos, cronograma e riscos.
 
